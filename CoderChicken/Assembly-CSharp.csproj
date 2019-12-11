@@ -63,12 +63,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ExtractMaterial.cs" />
-    <Compile Include="Assets\Scenes\Audio Scripts\ArrayLayout.cs" />
+    <Compile Include="Assets\Scenes\Audio Scripts\AudioManager.cs" />
     <Compile Include="Assets\Scenes\Audio Scripts\ButtonClick.cs" />
-    <Compile Include="Assets\Scenes\Audio Scripts\JaggedArrays.cs" />
-    <Compile Include="Assets\Scenes\Audio Scripts\LocalSoundArray.cs" />
     <Compile Include="Assets\Scenes\Audio Scripts\SoundClass.cs" />
-    <Compile Include="Assets\Scenes\Audio Scripts\TestScript.cs" />
     <Compile Include="Assets\Scenes\Cursor\CursorScript.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/megan_frazier/CoderChicken/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
